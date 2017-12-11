@@ -1,0 +1,40 @@
+*{
+	font-family: 'Slabo 27px', serif;
+	color: #343a40;
+
+}
+
+
+.navbar-brand,.navbar-nav{
+	font-family: 'Slabo 27px', serif;
+	color: #343a40;
+}
+
+.navbar-brand{
+	font-size: 40px;
+
+}
+
+.navbar-nav{
+	font-size: 30px;
+	color: #343a40;
+}
+.nav-link{
+	color: #343a40;
+
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.py-5{
+	background-color: yellow;
+}
